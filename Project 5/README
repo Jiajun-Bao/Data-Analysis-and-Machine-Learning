@@ -1,0 +1,3 @@
+This assignment aims to use the Dynamic Mode Decomposition method on the video clips skidrop.mov
+and monte carlo.mov to separate the video stream to both the moving objects in the foreground 
+video and a static background.
