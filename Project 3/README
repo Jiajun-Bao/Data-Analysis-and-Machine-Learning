@@ -1,0 +1,5 @@
+This project aims to use the Principal Component Analysis (PCA) method to analyze the different
+datasets from videos of a spring-mass system recorded from cameras at three different angles. For 
+each camera angle, we are provided with four separate cases. One of them is the ideal case, and the
+other ones have different variations, such as camera shakes. We will use PCA to compare and contrast
+the different instances.
