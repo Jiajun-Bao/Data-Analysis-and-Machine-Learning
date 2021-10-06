@@ -1,0 +1,3 @@
+This project aims to first perform an SVD analysis of the digit images from the MNIST data set, 
+then using Linear Discriminant Analysis(LDA), support vector machines(SVM), and decision tree 
+classifiers to identify individual digits in the training set and classify digits in the testing set.
