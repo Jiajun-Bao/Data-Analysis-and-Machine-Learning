@@ -1,1 +1,3 @@
-
+This project solves a submarine radar detection problem, using noisy acoustic data obtained over
+a 24-hour period in half-hour increments to determine the moving submarine’s location and path and
+identify the acoustic admissions of the submarine. 
